@@ -60,13 +60,17 @@ Here are the main tools and technologies in my current stack:
 I'm open to discussing learning opportunities, collaboration, and new projects!
 
 <p align="left">
-    <a href="mailto:rfqialhkm@gmail.com">
-        <img src="https://img.shields.io/badge/Email-rfqialhkm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.instagram.com/m_rfqialhkm">
-        <img src="https://img.shields.io/badge/Instagram-@m_rfqialhkm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <img src="https://img.shields.io/badge/Open%20for%20Collaboration-Blue?style=for-the-badge" alt="Open to Collaboration" />
+  <a href="mailto:rfqialhkm@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" /> **rfqialhkm@gmail.com**
+  </a>
+  <br/>
+  
+  <a href="https://www.instagram.com/m_rfqialhkm">
+    <img src="https://skillicons.dev/icons?i=instagram" /> **@m_rfqialhkm**
+  </a>
+  <br/>
+
+  <img src="https://img.shields.io/badge/Open%20for%20Collaboration-Blue?style=for-the-badge" alt="Open to Collaboration" />
 </p>
 
 ---
