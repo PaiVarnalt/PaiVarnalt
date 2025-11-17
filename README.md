@@ -61,16 +61,15 @@ I'm open to discussing learning opportunities, collaboration, and new projects!
 
 <p align="left">
   <a href="mailto:rfqialhkm@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" /> **rfqialhkm@gmail.com**
+    <img src="https://skillicons.dev/icons?i=gmail" /> rfqialhkm@gmail.com
   </a>
   <br/>
   
   <a href="https://www.instagram.com/m_rfqialhkm">
-    <img src="https://skillicons.dev/icons?i=instagram" /> **@m_rfqialhkm**
+    <img src="https://skillicons.dev/icons?i=instagram" /> @m_rfqialhkm
   </a>
   <br/>
 
-  <img src="https://img.shields.io/badge/Open%20for%20Collaboration-Blue?style=for-the-badge" alt="Open to Collaboration" />
 </p>
 
 ---
