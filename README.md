@@ -11,21 +11,21 @@
 ## 🧰 Tech Stack
 
 ### **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![Bootstrap](https://img.shields.io/badge/-?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
 
 ### **Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![MySQL](https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=white&color=005C84)
 
 ### **Tools**
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![VSCode](https://img.shields.io/badge/-?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=0078D4)
+![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white&color=181717)
+![Figma](https://img.shields.io/badge/-?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
+![ChatGPT](https://img.shields.io/badge/-?style=for-the-badge&logo=openai&logoColor=white&color=00A67E)
+![Gemini](https://img.shields.io/badge/-?style=for-the-badge&logo=google&logoColor=white&color=4285F4)
 
 ---
 
