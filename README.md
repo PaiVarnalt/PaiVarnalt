@@ -40,7 +40,8 @@ Here are the main tools and technologies in my current stack:
 ### 🤖 AI Assistance
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openai,google" /> 
+    <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 </p>
 
 ---
